@@ -112,7 +112,6 @@ true
 The property `main` is a function that can be used to run the parser. Receives an array of two elements. 
 The second element is the name of the file to be parsed.The first is never used.
 
-```
 For the same code above:
 
 ```
