@@ -85,6 +85,12 @@ e:
 ➜  minus git:(20250205) ✗ npx jison minus-yy.jison minus.l -o minus.js
 ```
 
+Compile the grammar:
+
+```
+npx jison minus-yy.jison minus.l -o minus.js
+```
+
 ```
 ➜  minus git:(20250205) ✗ node
 Welcome to Node.js v23.5.0.
